@@ -1,0 +1,28 @@
+#myBody{
+    background-image: url(th\ \(11\).jpg);
+}
+
+#div{
+    width:500px;
+    height: 500px;
+    background-color: aliceblue;
+    border-radius: 15px;
+}
+#message{
+    width: 500px;
+    height: 40px;
+    background-color: white;
+    border-radius: 15px;
+}
+#send{
+    width: 500px;
+    height: 40px;
+    background-color: greenyellow;
+    border-radius: 15px;
+}
+#logout{
+    width: 500px;
+    height: 40px;
+    background-color: red;
+    border-radius: 15px;
+}

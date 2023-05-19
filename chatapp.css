@@ -1,0 +1,41 @@
+#body{
+    background-image: url("th\ \(11\).jpg");
+}
+#div{
+    background-color: rgb(174, 186, 241);
+    width: 500px;
+    height: 200px;
+    border-radius: 15px;
+}
+#icon{
+    border-radius: 75px;
+}
+#roomname{
+    background-color: white;
+    border-radius: 5px;
+    width: 400px;
+    height: 50px;
+}
+#username{
+    background-color: white;
+    border-radius: 5px;
+    width: 400px;
+    height: 50px;   
+}
+#hr{
+    height: 20px;
+    color:grey ;
+}
+#enter{
+    color: white;
+    width: 400px;
+    height: 50px;
+    border-radius: 15px;
+}
+#topic{
+    color: white;
+    font-size: 60px;
+}
+#h4{
+    color: white;
+}
